@@ -5,6 +5,6 @@ using pygame library.
 :snowflake: thanks to my little sister Shalini :pouting_woman:  for image assets, made on paint 3D
 
 
-![launch image](Launch Text.png)
+![launch image](image/Launch Text.png)
 
-![demo](demo.gif)
+![demo](demo/demo.gif)
