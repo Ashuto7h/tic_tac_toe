@@ -7,4 +7,4 @@ using pygame library.
 
 ![launch image](image/Launch Text.png)
 
-![demo](demo/demo.gif)
+![demo](demo.gif)
