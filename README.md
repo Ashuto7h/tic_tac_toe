@@ -1,4 +1,7 @@
 # Tic_Tac_Toe
+
+![CI](https://github.com/Ashuto7h/tic_tac_toe/workflows/CI/badge.svg)
+
 a tic tac toe game for 2 players written in python,
 using pygame library. 
 
