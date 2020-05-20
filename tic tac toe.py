@@ -1,6 +1,8 @@
 import pygame as pg
 import sys
-from pygame.locals import *
+from pygame.locals import QUIT
+from pygame.locals import MOUSEBUTTONUP
+
 import time
 
 # initialise global variables
