@@ -1,6 +1,6 @@
 # Tic_Tac_Toe
 
-![CI](https://github.com/Ashuto7h/tic_tac_toe/workflows/CI/badge.svg)
+![CI](https://github.com/Ashuto7h/tic_tac_toe/workflows/CI/badge.svg)  ![Python package](https://github.com/Ashuto7h/tic_tac_toe/workflows/Python%20package/badge.svg)
 
 a tic tac toe game for 2 players written in python,
 using pygame library. 
